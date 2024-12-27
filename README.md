@@ -1,3 +1,3 @@
 # sagemakerAI
 Sagaemaker AI instance 
-# Embedding with Amazon Quicksight Q 
+Embedding with Amazon Quicksight Q 
